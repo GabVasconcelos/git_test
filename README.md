@@ -1,3 +1,3 @@
 # git_test
-My first go at learning git 
+My first go at learning git \n
 Hello Odin!
